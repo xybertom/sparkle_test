@@ -10,7 +10,7 @@
                 http://you.com/app/2.0.html
             </sparkle:releaseNotesLink>
             <pubDate>Wed, 09 Jan 2006 19:20:11 +0000</pubDate>
-            <enclosure url="https://qasee.jp/download/autoupdate/?wpdmdl=1622&masterkey=604b1901d2c4b" sparkle:version="2.0" length="9126065" type="application/octet-stream" sparkle:dsaSignature="MEQCIBRw2U3QzRdtVUHqQIhQLZ2kKlfBS7mXyiQkoehGYnMXAiBKZRUvWkNPjAOB" />
+            <enclosure url="https://qasee.jp/download/autoupdate/?wpdmdl=1623&masterkey=604b19ec78603" sparkle:version="2.0" length="9126738" type="application/octet-stream" sparkle:dsaSignature="MEQCIG0OlHYI0cJHMRik5JzFiM4Ya2siztzm77teThe5YU0bAiBowdtUaSlfCDzC" />
             <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
         </item>
     </channel>
