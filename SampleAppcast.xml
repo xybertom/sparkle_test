@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <channel>
-        <title>Your Great App's Changelog</title>
-        <description>Most recent changes with links to updates.</description>
-        <language>ja</language>
-        <item>
-            <title>Version 2.0 (2 bugs fixed; 3 new features)</title>
-            <sparkle:releaseNotesLink>
-                http://you.com/app/2.0.html
-            </sparkle:releaseNotesLink>
-            <pubDate>Wed, 09 Jan 2006 19:20:11 +0000</pubDate>
-            <enclosure url="https://qasee.jp/download/update/?wpdmdl=1638&amp;masterkey=604edb8a57221" sparkle:version="2.0" length="9125723" type="application/octet-stream" sparkle:dsaSignature="MEQCIFA4GEoPSQh3tMoiOWrokQDzGUuN9KIV+HppM11cDj9HAiAp3p9+UK1PaQp1lBsckZFi1/HKcq15F2ajMYGEKtHcfw==" />
-            <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
-        </item>
-    </channel>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Sparkle Sharp Sample App Changelog</title>
+    <description>Most recent changes with links to updates.</description>
+    <language>en</language>
+      <item>
+        <title>Version 2.1</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+              <li>Suspendisse sed felis ac ante ultrices rhoncus. Etiam quis elit vel nibh placerat facilisis in id leo.</li>
+              <li>Vestibulum nec tortor odio, nec malesuada libero. Cras vel convallis nunc.</li>
+              <li>Suspendisse tristique massa eget velit consequat tincidunt. Praesent sodales hendrerit pretium.</li>
+            </ul>
+          ]]>
+        </description>
+        <pubDate>2017-07-24T17:32:53+0900</pubDate>
+        <enclosure url="https://qasee.jp/download/update/?wpdmdl=1638&amp;masterkey=604edb8a57221" sparkle:version="2.0" length="9125723" type="application/octet-stream" sparkle:dsaSignature="MEQCIFA4GEoPSQh3tMoiOWrokQDzGUuN9KIV+HppM11cDj9HAiAp3p9+UK1PaQp1lBsckZFi1/HKcq15F2ajMYGEKtHcfw==" />
+      </item>
+  </channel>
 </rss>
