@@ -17,7 +17,7 @@
           ]]>
         </description>
         <pubDate>2017-07-24T17:32:53+0900</pubDate>
-        <enclosure url="https://qasee.jp/download/update/?wpdmdl=1639&amp;masterkey=604ee1eed9a5f" sparkle:version="1.8.9" length="9126320" type="application/octet-stream" sparkle:dsaSignature="MEQCIEsHN8F95fY2er6JpftJJE6A9aByljSc23AQevZJpK+XAiBuWUnOK2P/olJP3OIOr3oHvrlSZxKrHGnjNVXud4U4zg==" />
+        <enclosure url="https://qasee.jp/download/update/?wpdmdl=1639&amp;masterkey=604ee1eed9a5f" sparkle:version="2.0" length="9126320" type="application/octet-stream" sparkle:dsaSignature="MEQCIEsHN8F95fY2er6JpftJJE6A9aByljSc23AQevZJpK+XAiBuWUnOK2P/olJP3OIOr3oHvrlSZxKrHGnjNVXud4U4zg==" />
       </item>
   </channel>
 </rss>
