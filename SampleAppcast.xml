@@ -5,8 +5,18 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
-        <title>Version 1.9.0</title>
-        <sparkle:version>1.9.0</sparkle:version>
+        <title>Version 1.8.9</title>
+        <sparkle:version>1.8.9</sparkle:version>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+              <li>Suspendisse sed felis ac ante ultrices rhoncus. Etiam quis elit vel nibh placerat facilisis in id leo.</li>
+              <li>Vestibulum nec tortor odio, nec malesuada libero. Cras vel convallis nunc.</li>
+              <li>Suspendisse tristique massa eget velit consequat tincidunt. Praesent sodales hendrerit pretium.</li>
+            </ul>
+          ]]>
+        </description>
         <pubDate>2017-07-24T17:32:53+0900</pubDate>
         <enclosure url="https://qasee.jp/download/update/?wpdmdl=1649&amp;masterkey=605081f831f47" sparkle:version="1.9.0" length="9126160" type="application/octet-stream" sparkle:dsaSignature="MEQCIHXsrAsBVYXnhDa1fyYX6LKkGNJJyCRSoHzpCD/bMTVNAiASzMLpEJ7iHQ2R8i9iOzeq1CV1FzAd6Vgf3oD03Rs5dw==" />
       </item>
