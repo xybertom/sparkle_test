@@ -8,7 +8,7 @@
         <title>Version 1.9.0</title>
         <sparkle:version>1.9.0</sparkle:version>
         <pubDate>2017-07-24T17:32:53+0900</pubDate>
-        <enclosure url="https://qasee.jp/download/update/?wpdmdl=1649&amp;masterkey=605081f831f47" sparkle:version="" length="9126160" type="application/octet-stream" sparkle:dsaSignature="MEQCIHXsrAsBVYXnhDa1fyYX6LKkGNJJyCRSoHzpCD/bMTVNAiASzMLpEJ7iHQ2R8i9iOzeq1CV1FzAd6Vgf3oD03Rs5dw==" />
+        <enclosure url="https://qasee.jp/download/update/?wpdmdl=1649&amp;masterkey=605081f831f47" sparkle:version="1.9.0" length="9126160" type="application/octet-stream" sparkle:dsaSignature="MEQCIHXsrAsBVYXnhDa1fyYX6LKkGNJJyCRSoHzpCD/bMTVNAiASzMLpEJ7iHQ2R8i9iOzeq1CV1FzAd6Vgf3oD03Rs5dw==" />
       </item>
   </channel>
 </rss>
