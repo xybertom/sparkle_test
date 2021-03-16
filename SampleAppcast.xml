@@ -5,7 +5,10 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
-        <title>Version 2.1</title>
+        <title>Version 1.8.9</title>
+        <sparkle:releaseNotesLink>https://qasee.jp/</sparkle:releaseNotesLink>
+        <sparkle:version>1.8.9</sparkle:version>
+        <link>https://twitter.com</link>
         <description>
           <![CDATA[
             <ul>
